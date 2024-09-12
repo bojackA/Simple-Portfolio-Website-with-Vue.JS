@@ -1,0 +1,13 @@
+{
+    "ProjectsArray" : [
+        {
+            "id":1,
+            "Title": "Project One",
+            "About" : "Lorem Opsium dolor sit amet",
+            "Image": "data:Image/png;base64,https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rawpixel.com%2Fsearch%2Ftransparent%2520png&psig=AOvVaw0KM72KfUbJeqhQQ47GhllH&ust=1717201305580000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDmlMDPtoYDFQAAAAAdAAAAABAE",
+            "Link1": "",
+            "Link2":""
+
+        }
+    ]
+}
